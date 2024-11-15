@@ -16,12 +16,12 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0">Dashboard</h1>
+            <h1 class="m-0">Panel</h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard v1</li>
+              <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+              <li class="breadcrumb-item active">Panel v1</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
@@ -40,12 +40,12 @@
               <div class="inner">
                 <h3>150</h3>
 
-                <p>New Orders</p>
+                <p>Nuevos Pedidos</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
               </div>
-              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="#" class="small-box-footer">Más información <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
@@ -55,12 +55,12 @@
               <div class="inner">
                 <h3>53<sup style="font-size: 20px">%</sup></h3>
 
-                <p>Bounce Rate</p>
+                <p>Tasa de rebote</p>
               </div>
               <div class="icon">
                 <i class="ion ion-stats-bars"></i>
               </div>
-              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="#" class="small-box-footer">Más información <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
@@ -70,12 +70,12 @@
               <div class="inner">
                 <h3>44</h3>
 
-                <p>User Registrations</p>
+                <p>Registros de usuarios</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
               </div>
-              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="#" class="small-box-footer">Más información <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
@@ -85,12 +85,12 @@
               <div class="inner">
                 <h3>65</h3>
 
-                <p>Unique Visitors</p>
+                <p>Visitantes únicos</p>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
               </div>
-              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="#" class="small-box-footer">Más información <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
@@ -113,7 +113,7 @@
                       <a class="nav-link active" href="#revenue-chart" data-toggle="tab">Area</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#sales-chart" data-toggle="tab">Donut</a>
+                      <a class="nav-link" href="#sales-chart" data-toggle="tab">Circular</a>
                     </li>
                   </ul>
                 </div>
@@ -136,7 +136,7 @@
             <!-- DIRECT CHAT -->
             <div class="card direct-chat direct-chat-primary">
               <div class="card-header">
-                <h3 class="card-title">Direct Chat</h3>
+                <h3 class="card-title">Chat directo</h3>
 
                 <div class="card-tools">
                   <span title="3 New Messages" class="badge badge-primary">3</span>
@@ -158,14 +158,14 @@
                   <!-- Message. Default to the left -->
                   <div class="direct-chat-msg">
                     <div class="direct-chat-infos clearfix">
-                      <span class="direct-chat-name float-left">Alexander Pierce</span>
-                      <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+                      <span class="direct-chat-name float-left">Jose Figueredo</span>
+                      <span class="direct-chat-timestamp float-right">23 ene 14:00</span>
                     </div>
                     <!-- /.direct-chat-infos -->
                     <img class="direct-chat-img" src="../dist/img/user1-128x128.jpg" alt="message user image">
                     <!-- /.direct-chat-img -->
                     <div class="direct-chat-text">
-                      Is this template really for free? That's unbelievable!
+                      ¿Esta plantilla es realmente gratuita? ¡Eso es increíble!
                     </div>
                     <!-- /.direct-chat-text -->
                   </div>
@@ -174,14 +174,14 @@
                   <!-- Message to the right -->
                   <div class="direct-chat-msg right">
                     <div class="direct-chat-infos clearfix">
-                      <span class="direct-chat-name float-right">Sarah Bullock</span>
-                      <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
+                      <span class="direct-chat-name float-right">Milena Velasquez</span>
+                      <span class="direct-chat-timestamp float-left">23 de enero 14:05</span>
                     </div>
                     <!-- /.direct-chat-infos -->
                     <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="message user image">
                     <!-- /.direct-chat-img -->
                     <div class="direct-chat-text">
-                      You better believe it!
+                      ¡Será mejor que lo creas!
                     </div>
                     <!-- /.direct-chat-text -->
                   </div>
@@ -190,14 +190,14 @@
                   <!-- Message. Default to the left -->
                   <div class="direct-chat-msg">
                     <div class="direct-chat-infos clearfix">
-                      <span class="direct-chat-name float-left">Alexander Pierce</span>
+                      <span class="direct-chat-name float-left">Jose Figueredo</span>
                       <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
                     </div>
                     <!-- /.direct-chat-infos -->
                     <img class="direct-chat-img" src="../dist/img/user1-128x128.jpg" alt="message user image">
                     <!-- /.direct-chat-img -->
                     <div class="direct-chat-text">
-                      Working with AdminLTE on a great new app! Wanna join?
+                      ¡Trabajando con AdminLTE en una nueva y excelente aplicación! ¿Quieres unirte?
                     </div>
                     <!-- /.direct-chat-text -->
                   </div>
@@ -206,14 +206,14 @@
                   <!-- Message to the right -->
                   <div class="direct-chat-msg right">
                     <div class="direct-chat-infos clearfix">
-                      <span class="direct-chat-name float-right">Sarah Bullock</span>
-                      <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
+                      <span class="direct-chat-name float-right">Milena Velasquez</span>
+                      <span class="direct-chat-timestamp float-left">23 de enero 18:10</span>
                     </div>
                     <!-- /.direct-chat-infos -->
                     <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="message user image">
                     <!-- /.direct-chat-img -->
                     <div class="direct-chat-text">
-                      I would love to.
+                      Me encantaría.
                     </div>
                     <!-- /.direct-chat-text -->
                   </div>
@@ -231,10 +231,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            Count Dracula
+                            Conde Drácula
                             <small class="contacts-list-date float-right">2/28/2015</small>
                           </span>
-                          <span class="contacts-list-msg">How have you been? I was...</span>
+                          <span class="contacts-list-msg">¿Cómo has estado? Era...</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -246,10 +246,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            Sarah Doe
+                            Sara Maldonado
                             <small class="contacts-list-date float-right">2/23/2015</small>
                           </span>
-                          <span class="contacts-list-msg">I will be waiting for...</span>
+                          <span class="contacts-list-msg">Estaré esperando...</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -261,10 +261,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            Nadia Jolie
+                            Nidia Barreto
                             <small class="contacts-list-date float-right">2/20/2015</small>
                           </span>
-                          <span class="contacts-list-msg">I'll call you back at...</span>
+                          <span class="contacts-list-msg">Te volveré a llamar al...</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -276,10 +276,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            Nora S. Vans
+                            Nora Daza
                             <small class="contacts-list-date float-right">2/10/2015</small>
                           </span>
-                          <span class="contacts-list-msg">Where is your new...</span>
+                          <span class="contacts-list-msg">¿Dónde está tu nuevo...?</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -291,10 +291,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            John K.
+                            John Pardo
                             <small class="contacts-list-date float-right">1/27/2015</small>
                           </span>
-                          <span class="contacts-list-msg">Can I take a look at...</span>
+                          <span class="contacts-list-msg">¿Puedo echarle un vistazo...?</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -306,10 +306,10 @@
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
-                            Kenneth M.
+                            Kaleth Martinez
                             <small class="contacts-list-date float-right">1/4/2015</small>
                           </span>
-                          <span class="contacts-list-msg">Never mind I found...</span>
+                          <span class="contacts-list-msg">No importa, encontré...</span>
                         </div>
                         <!-- /.contacts-list-info -->
                       </a>
@@ -326,7 +326,7 @@
                   <div class="input-group">
                     <input type="text" name="message" placeholder="Type Message ..." class="form-control">
                     <span class="input-group-append">
-                      <button type="button" class="btn btn-primary">Send</button>
+                      <button type="button" class="btn btn-primary">Enviar</button>
                     </span>
                   </div>
                 </form>
@@ -340,7 +340,7 @@
               <div class="card-header">
                 <h3 class="card-title">
                   <i class="ion ion-clipboard mr-1"></i>
-                  To Do List
+                  Lista de tareas pendientes
                 </h3>
 
                 <div class="card-tools">
@@ -368,7 +368,7 @@
                       <label for="todoCheck1"></label>
                     </div>
                     <!-- todo text -->
-                    <span class="text">Design a nice theme</span>
+                    <span class="text">Diseña un bonito tema.</span>
                     <!-- Emphasis label -->
                     <small class="badge badge-danger"><i class="far fa-clock"></i> 2 mins</small>
                     <!-- General tools such as edit or delete-->
@@ -386,7 +386,7 @@
                       <input type="checkbox" value="" name="todo2" id="todoCheck2" checked>
                       <label for="todoCheck2"></label>
                     </div>
-                    <span class="text">Make the theme responsive</span>
+                    <span class="text">Hacer que el tema sea responsivo</span>
                     <small class="badge badge-info"><i class="far fa-clock"></i> 4 hours</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -402,8 +402,8 @@
                       <input type="checkbox" value="" name="todo3" id="todoCheck3">
                       <label for="todoCheck3"></label>
                     </div>
-                    <span class="text">Let theme shine like a star</span>
-                    <small class="badge badge-warning"><i class="far fa-clock"></i> 1 day</small>
+                    <span class="text">Deja que el tema brille como una estrella.</span>
+                    <small class="badge badge-warning"><i class="far fa-clock"></i> 1 dia</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
                       <i class="fas fa-trash-o"></i>
@@ -418,8 +418,8 @@
                       <input type="checkbox" value="" name="todo4" id="todoCheck4">
                       <label for="todoCheck4"></label>
                     </div>
-                    <span class="text">Let theme shine like a star</span>
-                    <small class="badge badge-success"><i class="far fa-clock"></i> 3 days</small>
+                    <span class="text">Deja que el tema brille como una estrella.</span>
+                    <small class="badge badge-success"><i class="far fa-clock"></i> 3 dias</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
                       <i class="fas fa-trash-o"></i>
@@ -434,7 +434,7 @@
                       <input type="checkbox" value="" name="todo5" id="todoCheck5">
                       <label for="todoCheck5"></label>
                     </div>
-                    <span class="text">Check your messages and notifications</span>
+                    <span class="text">Consulta tus mensajes y notificaciones</span>
                     <small class="badge badge-primary"><i class="far fa-clock"></i> 1 week</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -450,7 +450,7 @@
                       <input type="checkbox" value="" name="todo6" id="todoCheck6">
                       <label for="todoCheck6"></label>
                     </div>
-                    <span class="text">Let theme shine like a star</span>
+                    <span class="text">Deja que el tema brille como una estrella.</span>
                     <small class="badge badge-secondary"><i class="far fa-clock"></i> 1 month</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -461,7 +461,7 @@
               </div>
               <!-- /.card-body -->
               <div class="card-footer clearfix">
-                <button type="button" class="btn btn-primary float-right"><i class="fas fa-plus"></i> Add item</button>
+                <button type="button" class="btn btn-primary float-right"><i class="fas fa-plus"></i> Agregar artículo</button>
               </div>
             </div>
             <!-- /.card -->
@@ -475,7 +475,7 @@
               <div class="card-header border-0">
                 <h3 class="card-title">
                   <i class="fas fa-map-marker-alt mr-1"></i>
-                  Visitors
+                  Visitantes
                 </h3>
                 <!-- card tools -->
                 <div class="card-tools">
@@ -496,17 +496,17 @@
                 <div class="row">
                   <div class="col-4 text-center">
                     <div id="sparkline-1"></div>
-                    <div class="text-white">Visitors</div>
+                    <div class="text-white">Visitantes</div>
                   </div>
                   <!-- ./col -->
                   <div class="col-4 text-center">
                     <div id="sparkline-2"></div>
-                    <div class="text-white">Online</div>
+                    <div class="text-white">En linea</div>
                   </div>
                   <!-- ./col -->
                   <div class="col-4 text-center">
                     <div id="sparkline-3"></div>
-                    <div class="text-white">Sales</div>
+                    <div class="text-white">Ventas</div>
                   </div>
                   <!-- ./col -->
                 </div>
@@ -520,7 +520,7 @@
               <div class="card-header border-0">
                 <h3 class="card-title">
                   <i class="fas fa-th mr-1"></i>
-                  Sales Graph
+                  Gráfico de ventas
                 </h3>
 
                 <div class="card-tools">
@@ -542,21 +542,21 @@
                     <input type="text" class="knob" data-readonly="true" value="20" data-width="60" data-height="60"
                            data-fgColor="#39CCCC">
 
-                    <div class="text-white">Mail-Orders</div>
+                    <div class="text-white">Pedidos por correo</div>
                   </div>
                   <!-- ./col -->
                   <div class="col-4 text-center">
                     <input type="text" class="knob" data-readonly="true" value="50" data-width="60" data-height="60"
                            data-fgColor="#39CCCC">
 
-                    <div class="text-white">Online</div>
+                    <div class="text-white">En línea</div>
                   </div>
                   <!-- ./col -->
                   <div class="col-4 text-center">
                     <input type="text" class="knob" data-readonly="true" value="30" data-width="60" data-height="60"
                            data-fgColor="#39CCCC">
 
-                    <div class="text-white">In-Store</div>
+                    <div class="text-white">En la tienda</div>
                   </div>
                   <!-- ./col -->
                 </div>
@@ -572,7 +572,7 @@
 
                 <h3 class="card-title">
                   <i class="far fa-calendar-alt"></i>
-                  Calendar
+                  Calendario
                 </h3>
                 <!-- tools card -->
                 <div class="card-tools">
@@ -582,10 +582,10 @@
                       <i class="fas fa-bars"></i>
                     </button>
                     <div class="dropdown-menu" role="menu">
-                      <a href="#" class="dropdown-item">Add new event</a>
-                      <a href="#" class="dropdown-item">Clear events</a>
+                      <a href="#" class="dropdown-item">Agregar nuevo evento</a>
+                      <a href="#" class="dropdown-item">Borrar eventos</a>
                       <div class="dropdown-divider"></div>
-                      <a href="#" class="dropdown-item">View calendar</a>
+                      <a href="#" class="dropdown-item">Ver calendario</a>
                     </div>
                   </div>
                   <button type="button" class="btn btn-success btn-sm" data-card-widget="collapse">

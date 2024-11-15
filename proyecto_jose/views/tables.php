@@ -26,8 +26,8 @@
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">DataTables</li>
+              <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+              <li class="breadcrumb-item active">Tablas de datos</li>
             </ol>
           </div>
         </div>
@@ -41,23 +41,23 @@
           <div class="col-12">
             <div class="card">
               <div class="card-header">
-                <h3 class="card-title">DataTable with minimal features & hover style</h3>
+                <h3 class="card-title">DataTable con características mínimas y estilo de desplazamiento</h3>
               </div>
               <!-- /.card-header -->
               <div class="card-body">
                 <table id="example2" class="table table-bordered table-hover">
                   <thead>
                   <tr>
-                    <th>Rendering engine</th>
-                    <th>Browser</th>
-                    <th>Platform(s)</th>
-                    <th>Engine version</th>
-                    <th>CSS grade</th>
+                    <th>Motor de renderizado</th>
+                    <th>Navegador</th>
+                    <th>Plataforma(s)</th>
+                    <th>Versión del motor</th>
+                    <th>Grado CSS</th>
                   </tr>
                   </thead>
                   <tbody>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 4.0
                     </td>
@@ -66,7 +66,7 @@
                     <td>X</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 5.0
                     </td>
@@ -75,7 +75,7 @@
                     <td>C</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 5.5
                     </td>
@@ -84,7 +84,7 @@
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 6
                     </td>
@@ -93,14 +93,14 @@
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet Explorer 7</td>
                     <td>Win XP SP2+</td>
                     <td>7</td>
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>AOL browser (AOL desktop)</td>
                     <td>Win XP</td>
                     <td>6</td>
@@ -466,11 +466,11 @@
                   </tbody>
                   <tfoot>
                   <tr>
-                    <th>Rendering engine</th>
-                    <th>Browser</th>
-                    <th>Platform(s)</th>
-                    <th>Engine version</th>
-                    <th>CSS grade</th>
+                    <th>Motor de renderizado</th>
+                    <th>Navegador</th>
+                    <th>Plataforma(s)</th>
+                    <th>Versión del motor</th>
+                    <th>Grado CSS</th>
                   </tr>
                   </tfoot>
                 </table>
@@ -481,23 +481,23 @@
 
             <div class="card">
               <div class="card-header">
-                <h3 class="card-title">DataTable with default features</h3>
+                <h3 class="card-title">DataTable con características predeterminadas</h3>
               </div>
               <!-- /.card-header -->
               <div class="card-body">
                 <table id="example1" class="table table-bordered table-striped">
                   <thead>
                   <tr>
-                    <th>Rendering engine</th>
-                    <th>Browser</th>
-                    <th>Platform(s)</th>
-                    <th>Engine version</th>
-                    <th>CSS grade</th>
+                    <th>Motor de renderizado</th>
+                    <th>Navegador</th>
+                    <th>Plataforma(s)</th>
+                    <th>Versión del motor</th>
+                    <th>Grado CSS</th>
                   </tr>
                   </thead>
                   <tbody>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 4.0
                     </td>
@@ -506,7 +506,7 @@
                     <td>X</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 5.0
                     </td>
@@ -515,7 +515,7 @@
                     <td>C</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 5.5
                     </td>
@@ -524,7 +524,7 @@
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet
                       Explorer 6
                     </td>
@@ -533,14 +533,14 @@
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>Internet Explorer 7</td>
                     <td>Win XP SP2+</td>
                     <td>7</td>
                     <td>A</td>
                   </tr>
                   <tr>
-                    <td>Trident</td>
+                    <td>Tridente</td>
                     <td>AOL browser (AOL desktop)</td>
                     <td>Win XP</td>
                     <td>6</td>
@@ -897,8 +897,8 @@
                     <td>C</td>
                   </tr>
                   <tr>
-                    <td>Other browsers</td>
-                    <td>All others</td>
+                    <td>Otros navegadores</td>
+                    <td>Todos los demas</td>
                     <td>-</td>
                     <td>-</td>
                     <td>U</td>
@@ -906,11 +906,11 @@
                   </tbody>
                   <tfoot>
                   <tr>
-                    <th>Rendering engine</th>
-                    <th>Browser</th>
-                    <th>Platform(s)</th>
-                    <th>Engine version</th>
-                    <th>CSS grade</th>
+                    <th>Motor de renderizado</th>
+                    <th>Navegador</th>
+                    <th>Plataforma(s)</th>
+                    <th>Versión del motor</th>
+                    <th>Grado CSS</th>
                   </tr>
                   </tfoot>
                 </table>
